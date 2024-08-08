@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+npm-debug.log
+
+# OS generated files
+.DS_Store
+
+# Build output directories
+dist
+build
+
+# Environment files
+.env
+.env.*
+
+# Log files
+logs
+*.log
+
+# Editor directories and files
+.vscode
+.idea
+
+# Test coverage
+coverage
+.nyc_output
+
+# Temporary files
+tmp
+temp
+
+# Version control
+.git
+.gitignore
+
+# Documentation and license files
+README.md
+LICENSE
+*.md
